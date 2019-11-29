@@ -1,0 +1,32 @@
+[
+    {
+        "mode": "REQUIRED",
+        "name": "Id",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "REQUIRED",
+        "name": "FirstName",
+        "type": "STRING"
+    },
+    {
+        "mode": "REQUIRED",
+        "name": "LastName",
+        "type": "STRING"
+    },
+    {
+        "mode": "REQUIRED",
+        "name": "Email",
+        "type": "STRING"
+    },
+    {
+        "mode": "REQUIRED",
+        "name": "Location",
+        "type": "STRING"
+    },
+    {
+        "mode": "REQUIRED",
+        "name": "ContactNumber",
+        "type": "STRING"
+    }
+]
